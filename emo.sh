@@ -38,7 +38,7 @@ ICERIK()
                 if [ -n $first ]
                 then
 
-                        second=$(whiptail --inputbox "Hangi satıra kada olacagini yaziniz... " --fb --nocancel  10 100 3>&1 1>&2 2>&3)
+                        second=$(whiptail --inputbox "Hangi satıra kadar olacagini yaziniz... " --fb --nocancel  10 100 3>&1 1>&2 2>&3)
                         echo "first:" $first
                         if [ -n $second ]
                         then    echo "second" $second;
