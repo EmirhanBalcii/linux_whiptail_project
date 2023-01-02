@@ -28,3 +28,7 @@ Yeni dosya oluşturma,oluşturulan dosyalarda dosya izinlerini değiştirme ve b
 # Hangi satıra kadar olacağını seçme
 
 <img width="659" alt="Ekran görüntüsü 2023-01-02 230739" src="https://user-images.githubusercontent.com/75940377/210279151-394d693e-c439-4f76-b0b8-7265f85ceca5.png">
+
+# Programın tanıtımı
+Programa giriş için terminal açılarak bash dosyaadi olarak giriş yapılır.Giriş yapıldıktan sonra önümüze menu seçimi çıkacaktır.İlk seçenekte dosya oluşturma var.Dosya oluşturma için seçildiğinde klasöre istenilen isimde dosya oluşturulur ve Tamam butonuna basılarak dosya oluşturulmuş olur.oluşturulan dosyayı ilgili klasörde bulabilirisiniz.İkinci seçenek olarak sayısal izni değiştir seçildiğinde istenilen bir dosya seçilerek numeric olarak dosya izinleri değiştirilebilir.(Örneğin 000 yapılarak her yetkisi ksıtlanır ya da 777 yapılarak tüm yetkiler verilebilir.)Üçüncü seçenek olarak belirli satırlar arası içeriği görüntüleme seçeneğine tıklandığında seçilen ya da yeni oluşturulan bir dosyanın istenilen aralıktaki satırlarını bir dosyaya yazdırma ve ekranda görüntülemeyi sağlar.
+Dördüncü seçenek olarak çıkış seçeneği tıklanarak programdan çıkış sağlanır.
